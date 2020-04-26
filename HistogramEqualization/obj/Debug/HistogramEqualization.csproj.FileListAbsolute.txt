@@ -1,0 +1,17 @@
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\cv210.dll
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\cvaux210.dll
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\cxcore210.dll
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\highgui210.dll
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\ml210.dll
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\HistogramEqualization.exe.config
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\HistogramEqualization.exe
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\HistogramEqualization.pdb
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\bin\Debug\OpenCvSharp.dll
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.csprojAssemblyReference.cache
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.Form1.resources
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.Properties.Resources.resources
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.csproj.GenerateResource.cache
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.csproj.CoreCompileInputs.cache
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.csproj.CopyComplete
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.exe
+C:\Users\rusir\source\repos\HistogramEqualization\HistogramEqualization\obj\Debug\HistogramEqualization.pdb
